@@ -243,7 +243,7 @@ GET https://book-review-api-1v7w.onrender.com/api/v1/search?q=atomic
 
 Made with ❤️ by **Deepak Kumar Sahu**
 
-- GitHub: [@deepakkumar1211](https://github.com/deepak-kumar-sahu)  
+- GitHub: [@deepakkumar1211](https://github.com/deepakkumar1211)  
 - LinkedIn: [@deepak-kumar-sahu12](https://www.linkedin.com/in/deepak-kumar-sahu12/)  
 - Portfolio: [https://deepaksahu.vercel.app](https://deepaksahu.vercel.app)
 
